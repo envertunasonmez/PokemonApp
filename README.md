@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_pokemon
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PokemonApp
+Emre Altunbilek'in flutter kursu ile geliştirilen pokemon uygulaması
+>>>>>>> 01c245cebd96e4cd9cacf1ece727b44fd5256a2c
